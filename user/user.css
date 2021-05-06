@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+    height: auto; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 1em !important;
+}
+.steps {
+    padding: 5px;
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    border-radius: 50px;
+    font-size: 20px;
+}
+.bookdetails td {
+    padding:6px;
+}
+.modal-header {
+    background: -webkit-linear-gradient(left, #35D6ED, blue) !important;
+}

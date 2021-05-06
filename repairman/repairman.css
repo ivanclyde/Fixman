@@ -1,0 +1,11 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+    height: auto; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 1em !important;
+}
+.modal-header {
+	background: -webkit-linear-gradient(left, #35D6ED, blue) !important;
+}
